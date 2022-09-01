@@ -1,0 +1,5 @@
+node_modules/
+.eslintcache
+config/
+.vscode
+config.env
