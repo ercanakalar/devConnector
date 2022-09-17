@@ -6,5 +6,5 @@ React Hooks, Async/Await & modern practices
 Use Redux for state management
 Deploy to Heroku with a postbuild script
 
-Here is the alive link: https://dev-connector-full-stack.herokuapp.com/dashboard
+Here is the alive link: https://dev-connector-full-stack.herokuapp.com/
  
